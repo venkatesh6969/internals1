@@ -50,7 +50,7 @@ const Menu = () => {
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chicken_makhani.jpg/800px-Chicken_makhani.jpg" className="card-img-top img-card" alt=""/>
             <div className="card-body">
               <h5 className="card-title course-title">Butter Chicken</h5>
-              <p className="card-text">React JS is a popular JavaScript library for building user interfaces. It uses a component-based approach, allowing developers to create reusable UI elements that efficiently update and render only the necessary parts of the application, resulting in fast and responsive web experiences.</p>
+              <p className="card-text">Similar to Chicken Tikka Masala, Butter Chicken is one of the most popular curries at any Indian restaurant around the world. Aromatic golden chicken pieces in an incredible creamy curry sauce, this Butter Chicken recipe is one of the best you will try.</p>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@ const Menu = () => {
             <img src="https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/souped_up_instant_ramen_69512_16x9.jpg" className="card-img-top img-card" alt=""/>
             <div className="card-body">
               <h5 className="card-title course-title">Ramen</h5>
-              <p className="card-text">Ramen is a Japanese noodle dish. It consists of Chinese-style wheat noodles (or 中華麺, chūkamen) served in a broth; common flavors are soy sauce and miso, with typical toppings including sliced pork (chāshū), nori (dried seaweed), menma (bamboo shoots), and scallions. Ramen has its roots in Chinese noodle dishes.</p>
+              <p className="card-text">Ramen is a Japanese noodle dish. It consists of Chinese-style wheat noodles (or 中華麺, chūkamen) served in a broth; common flavors are soy sauce and miso, with typical toppings including sliced pork (chāshū), nori. Some random recipe won't taste that good.</p>
             </div>
           </div>
         </div>
